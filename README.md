@@ -1,1 +1,1 @@
-# othello
+# Ludo Server
